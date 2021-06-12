@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "baseball",
+            "group": "ltcwbb",
+            "database": "${workspaceFolder:ltcwbb-files}/data/100-game-sample/baseball.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
